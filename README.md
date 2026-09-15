@@ -55,12 +55,3 @@ I'm a Software Engineering student passionate about the intersection of logical 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
-
-<br/>
-
-### <font face="Fira Code, monospace" color="#00FF9C">#</font> <font face="Fira Code, monospace">Activity Graph</font>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byleocardoso&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-</div>
-
