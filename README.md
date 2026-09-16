@@ -19,12 +19,6 @@
 
 <br/>
 
-<div align="center">
-  <pre style="background: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 10px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+Transforming+ideas+into+code;%3E+Bridging+Development+%26+Design;%3E+Crafting+digital+experiences" alt="Typing SVG" />
-  </pre>
-</div>
-
 ### <font face="Fira Code, monospace" color="#00FF9C">#</font> <font face="Fira Code, monospace">About Me</font>
 
 <font face="Fira Code, monospace">
