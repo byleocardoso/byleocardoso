@@ -9,7 +9,7 @@
     <code><font face="Fira Code, monospace" color="#8b949e">Software Engineering Student &nbsp;|&nbsp; UI/UX Enthusiast</font></code>
   </p>
   
-  <a href="https://www.linkedin.com/in/seu-link-aqui" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/leonardo-cardoso-8a65973a4/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/leomxsh" target="_blank">
