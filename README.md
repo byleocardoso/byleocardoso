@@ -37,7 +37,7 @@ I'm a Software Engineering student passionate about the intersection of logical 
 
 <br/>
 
-### <font face="Fira Code, monospace" color="#00FF9C">#</font> <font face="Fira Code, monospace">Featured Projects ( ͡° ͜ʖ ͡°)</font>
+### <font face="Fira Code, monospace" color="#00FF9C">#</font> <font face="Fira Code, monospace">Featured Projects</font>
 
 * <code><font color="#00FF9C">KRAZX</font></code> <font face="Fira Code, monospace">— Digital Marketplace Platform (UI/UX & Frontend)</font>
 * <code><font color="#00FF9C">ABYSSR</font></code> <font face="Fira Code, monospace">— Conceptual Tech / Streetwear Ecosystem</font>
